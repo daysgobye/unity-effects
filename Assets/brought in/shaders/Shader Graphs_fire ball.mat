@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_fire ball
+  m_Shader: {fileID: -6465566751694194690, guid: 87d0ee38607f34b199e2f2365be3d022,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_30B0E2BE:
+        m_Texture: {fileID: 2800000, guid: 2bba581bf55fa4795959eb0c7ad63507, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_54CA32F0: 8.17
+    - Vector1_5C32B98C: -1.59
+    - Vector1_96B3BDCA: -0.77
+    - Vector1_9FA528F2: 8.31
+    - Vector1_DAB4FA63: -1.69
+    m_Colors:
+    - Color_54F0ADEB: {r: 15.813397, g: 0.9935119, b: 0, a: 1}
+    - Color_B0204435: {r: 0.6509434, g: 0.36001554, b: 0.17501779, a: 0.81960785}
+    - Color_EA962035: {r: 24.50532, g: 6.390818, b: 1.2715026, a: 1}
+    - Vector2_68F9DF0C: {r: 0.1, g: 0, b: 0, a: 0}
+    - Vector2_A7D376A2: {r: 0.1, g: 0.1, b: 0, a: 0}
